@@ -1,0 +1,6 @@
+{
+  "name": "BEN Froid Adrar | متجر التبريد والتكييف والأجهزة الكهرومنزلية",
+  "description": "المتجر الإلكتروني الرسمي لمحل BEN Froid Adrar في الجزائر - بيع، تركيب وصيانة أجهزة التبريد والتكييف، الأجهزة الكهرومنزلية، غرف التبريد وقطع الغيار الأصلية مع التوصيل والدفع عند الاستلام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
